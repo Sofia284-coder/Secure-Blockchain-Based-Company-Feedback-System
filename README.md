@@ -108,10 +108,3 @@ python main.py
 ## 👨‍💻 Author
 
 Developed as a secure voting simulation project demonstrating blockchain and cryptographic principles in Python.
-
----
-
-If you want, I can also:
-- :contentReference[oaicite:0]{index=0}
-- or :contentReference[oaicite:1]{index=1}
-```
